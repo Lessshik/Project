@@ -1,0 +1,4 @@
+Number FirstName Name Surname Otdel Dolzhnost E-mail Number tel. City number Inside number Home number Login Password 
+CN001 Ivanova Irina Vital OU001 Rukovoditel iivanova@company.ru 88002000600 1 131  iivanova iivanova 
+CN003 Nikitin Nikola Ivan OU003 Recruter nbuchelnikov@company.ru 88002000600 2 201  nbuchelnikov nbuchelnikov 
+CN005 Kalashnikov Evgen Valentin OU005 Rukovoditel ekalashnikov@company.ru 88002000600 3 440  ekalashnikov ekalashnikov 
